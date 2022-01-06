@@ -2,4 +2,4 @@
 
 Login Credentials
 Username: rahul &&
-Passwrod: rahul@2021
+Password: rahul@2021
